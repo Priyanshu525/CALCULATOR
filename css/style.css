@@ -55,6 +55,7 @@ font-family:serif ;}
     font-size: 1.3rem;
 transition: all 0.2s;
 -webkit-text-stroke: 0.7px black;
+    outline:none;
 }
 .btn:hover{
 transform: scale(1.04);
